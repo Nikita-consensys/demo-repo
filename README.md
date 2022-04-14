@@ -1,3 +1,3 @@
 # Demo
 
-Some of my friends are gone
+Some of my friends are gone!
